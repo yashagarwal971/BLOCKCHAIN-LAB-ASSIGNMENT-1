@@ -1,0 +1,42 @@
+T1: 0x03588888D41550112f64f56574A30EA86972FE4F
+Buy: 22
+finalcost = 0:uint256: 2200
+oneunitprice = 0:uint256: 100
+ordercomplete = 0:uint256: 1
+paymentstatus = 0:uint256: 1
+qty = 0:uint256: 22
+
+T2: 0x4e553A943B62793810Abb70D80bEFF3f17120160
+Buy: 10
+finalcost = 0:uint256: 1000
+oneunitprice = 0:uint256: 100
+ordercomplete = 0:uint256: 1
+paymentstatus = 0:uint256: 1
+qty = 0:uint256: 10
+
+
+T3: 0xBE8CE8CEb81CF4a2a03bc0e329149d8CBD0E6d8E
+Buy: 7
+finalcost = 0:uint256: 700
+oneunitprice = 0:uint256: 100
+ordercomplete = 0:uint256: 1
+paymentstatus = 0:uint256: 1
+qty = 0:uint256: 7
+
+
+T4: 0xDaF6d3Da4467A0eF8a608178b769c03E9466AaC3
+Buy: 5
+finalcost = 0:uint256: 500
+oneunitprice = 0:uint256: 100
+ordercomplete = 0:uint256: 1
+paymentstatus = 0:uint256: 1
+qty = 0:uint256: 5
+
+
+T5: 0x782a5695fe04f2595afA21413e86f02aD766350B
+Buy: 23
+finalcost = 0:uint256: 2300
+oneunitprice = 0:uint256: 100
+ordercomplete = 0:uint256: 1
+paymentstatus = 0:uint256: 1
+qty = 0:uint256: 23
